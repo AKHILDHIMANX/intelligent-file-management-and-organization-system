@@ -3,10 +3,21 @@
 A simple desktop application that automatically cleans up any messy folder by sorting
 its files into neat category folders — built completely with **Python** and **Tkinter**.
 It also has a one-click **Restore / Undo** feature, so nothing is ever lost.
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="center">
   <img src="screenshots/gui-input-screen.png" alt="Input Screen - folder path entered" width="680">
 </p>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ---
 
@@ -109,10 +120,20 @@ The application was tested on a real **Downloads** folder containing **194 files
   empty category folders automatically — no file was missing.
 - A folder organized by an older copy (without a history file) was also restored
   successfully — **233 files** returned to their original place.
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="center">
   <img src="screenshots/success-message.png" alt="Success message after organizing 194 files" width="360">
 </p>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ---
 
